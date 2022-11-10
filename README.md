@@ -3,6 +3,14 @@
 - 🖱️ I'm a computer and systems engineer 
 - 💾 I’m currently focusing on Python , Django , ReactJs , HTML5 , CSS and Javascript
 - 📖 I have experience in Python , Java , Javascript , Css , Oracle 
+- 🔭 I'm currently doing a personal project in Python and ReactJs
+
+### Hola, Soy Michael 👋
+- 🖱️ Soy ingeniero de sistemas y computación 
+- 💾 Actualmente me estoy enfocando en Python , Django , React , HTML5 , CSS y Javascript
+- 📖 Tengo experiencia en Python , Java , Javascript , Css , Oracle
+- 🔭 Actualmente estoy realizando un proyecto personal en Python y ReactJs
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

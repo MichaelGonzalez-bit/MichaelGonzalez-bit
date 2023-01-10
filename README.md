@@ -2,7 +2,7 @@
 
 - 🖱️ I'm a computer and systems engineer 
 - 💾 I’m currently focusing on Python , Django , ReactJs , HTML5 , CSS and Javascript
-- 📖 I have experience in Python , Java , Javascript , Css , Oracle for more than 2 years
+- 📖 I have experience in React, Python , Java , Javascript , Css , Oracle for more than 2 years
 - 🔭 I'm currently doing a personal project in Python and ReactJs
 
 ### Hola, Soy Michael 👋

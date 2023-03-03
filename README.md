@@ -1,14 +1,14 @@
 ### Hi, I'm Michael 👋
 
 - 🖱️ I'm a computer and systems engineer 
-- 💾 I’m currently focusing on Python , Django , ReactJs , HTML5 , CSS and Javascript
 - 📖 I have experience in React, Python , Java , Javascript , Css , Oracle for more than 2 years
-- 🔭 I'm currently doing a personal project in Python and ReactJs
+- 📖 Experience in Machine learning for 1 year 
+- 🔭 I'm currently doing a personal project in Python and ReactJ 
 
 ### Hola, Soy Michael 👋
 - 🖱️ Soy ingeniero de sistemas y computación 
-- 💾 Actualmente me estoy enfocando en Python , Django , React , HTML5 , CSS y Javascript
 - 📖 Tengo experiencia en React , Python , Java , Javascript , Html ,Css , Oracle por mas de 2 a años
+- 📖 Experiencia en machine learning de un año
 - 🔭 Actualmente estoy realizando un proyecto personal en Python y ReactJs
 
 

@@ -25,6 +25,10 @@
   </p>
 </p>
 
+💬 About Me :
+
+I am a passionate person with the world of artificial intelligence 
+
 
 <!--
 **MichaelGonzalez-bit/MichaelGonzalez-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

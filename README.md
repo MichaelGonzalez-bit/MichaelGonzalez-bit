@@ -25,7 +25,7 @@
   </p>
 </p>
 
-💬 About Me :
+<h3>💬 About Me :</h3>
 
 I am a passionate person with the world of artificial intelligence 
 

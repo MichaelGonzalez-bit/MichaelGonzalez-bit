@@ -33,9 +33,7 @@
 <a href="https://www.linkedin.com/in/michael-medina-9a6673213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael medina" height="30" width="40" /></a>
 </p>
 
-<h3>About Me 💬 :</h3>
 
-⚡I am a passionate person with the world of artificial intelligence 
 
 
 <!--

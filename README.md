@@ -1,7 +1,7 @@
 ### Hi, I'm Michael 👋
 
 🖱️ I'm a computer and systems engineer <br>
-📖 I have experience in React, Python , Java, Javascript , Css , Oracle and Java for more than 2 years  <br>
+📖 I have experience in React, Python , Java, Javascript , Css , Oracle and Java for more than 1 years  <br>
 📖 I’m currently learning machine learning   <br>
 🔭 I'm currently doing a personal project in Python and ReactJs  <br>
 

@@ -1,9 +1,6 @@
 ### Hi, I'm Michael 👋
 
-🖱️ I'm a computer and systems engineer <br>
-📖 I have experience in React, Python , Java, Javascript , Css , Oracle and Java for more than 1 years  <br>
-📖 I’m currently learning machine learning   <br>
-🔭 I'm currently doing a personal project in Python and ReactJs  <br>
+Soy Ingeniero de Sistemas y Computación con 1 año de experiencia en desarrollo full-stack y actualmente profundizando en inteligencia artificial, machine learning y blockchain. Mi enfoque principal ha sido el desarrollo web con React y Laravel, así como la integración con AWS para soluciones en la nube. <br>
 
 <h3 align="left">💻 Languages & Database:</h3>
 

@@ -1,6 +1,12 @@
 ### Hi, I'm Michael 👋
 
-Soy Ingeniero de Sistemas y Computación con 1 año de experiencia en desarrollo full-stack y actualmente profundizando en inteligencia artificial, machine learning y blockchain. Mi enfoque principal ha sido el desarrollo web con React y Laravel, así como la integración con AWS para soluciones en la nube. <br>
+I'm a Systems Engineer with a year of hands-on full-stack experience: web platforms built on serverless architectures, server-side security and AI-powered features. I own the full lifecycle, from architecture design to a product that runs reliably in production.
+
+My current focus is AI Engineering: generative agents, LLM integration and real-time voice systems. Through GCI WORLD 2026 at the Matsuo-Iwasawa Laboratory (The University of Tokyo), I'm strengthening my foundation in Machine Learning and Data Science.
+
+I also bring research experience: my paper on blockchain as support for Colombia’s banking sector and financial assets was presented at CLEI 2024 and published in IEEE Xplore, covering distributed ledgers, smart contract security and digital asset traceability.
+
+Beyond engineering, I study Japanese and continuously refine my professional English. <br>
 
 <h3 align="left">💻 Languages & Database:</h3>
 

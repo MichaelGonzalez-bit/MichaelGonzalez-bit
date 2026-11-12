@@ -12,8 +12,8 @@ I'm a Systems Engineering graduate (UPTC) with a year of hands-on full-stack exp
 
 ### 🌐 Portfolio & Cúpula Tech
 
-- **Portfolio:** https://pmichael-gonzalez.netlify.app/
-- **Cúpula Tech** — my engineering lab & digital store (case studies, templates, blog): https://pmichael-gonzalez.netlify.app/cupula-tech/
+- **Portfolio:** https://michael-gonzalez.netlify.app/
+- **Cúpula Tech** — my engineering lab & digital store (case studies, templates, blog): https://michael-gonzalez.netlify.app/cupula-tech/
 
 <h3 align="left">💻 Languages & Databases</h3>
 
@@ -50,7 +50,7 @@ I'm a Systems Engineering graduate (UPTC) with a year of hands-on full-stack exp
 - 🇯🇵 Formación en Machine Learning y Ciencia de Datos en GCI WORLD 2026 (Universidad de Tokio)
 - 📄 Investigación publicada en IEEE Xplore (CLEI 2024)
 - 🔭 Actualmente construyendo un Chatbot SaaS con IA de voz full-duplex en tiempo real
-- 🌐 Portafolio: https://pmichael-gonzalez.netlify.app/
+- 🌐 Portafolio: https://michael-gonzalez.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

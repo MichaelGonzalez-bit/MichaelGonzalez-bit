@@ -18,7 +18,7 @@ Soy Ingeniero de Sistemas y Computación con 1 año de experiencia en desarrollo
 
 ### Can You see my Habilities 
 
-https://michaelgonzalez-bit.github.io/Portafolio/
+https://michael-gonzalez.netlify.app/
 
 ### Hola, Soy Michael 👋
 🖱️ Soy ingeniero de sistemas y computación  <br>

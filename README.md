@@ -5,7 +5,7 @@
 I'm a Systems Engineering graduate (UPTC) with a year of hands-on full-stack experience: web platforms built on serverless architectures, server-side security and AI-powered features. I own the full lifecycle, from architecture design to a product that runs reliably in production.
 
 - 🎓 **Systems Engineering graduate** — Universidad Pedagógica y Tecnológica de Colombia (UPTC)
-- 🇯🇵 **GCI WORLD 2026** — Data Science & Machine Learning training at the Matsuo-Iwasawa Laboratory (The University of Tokyo)
+-  **GCI WORLD 2026** — Data Science & Machine Learning training at the Matsuo-Iwasawa Laboratory (The University of Tokyo)
 - 📄 **Published researcher** — [*Blockchain as Support for the Banking Sector with a Focus on Financial Assets in Colombia*](https://ieeexplore.ieee.org/document/10700568), presented at CLEI 2024 and published in IEEE Xplore
 - 🔭 **Currently building** — a Smart Chatbot SaaS with full-duplex, real-time voice AI
 - 🌏 Studying Japanese and continuously refining my professional English
